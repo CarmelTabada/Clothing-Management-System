@@ -27,9 +27,18 @@
 
 				</ul>
 			</li>
-			<li><a href="#"><i class='bx bxs-chart icon' ></i> Inventory</a></li>
+			<li><a href="#"><i class='bx bxs-chart icon' ></i> Inventory <i class='bx bx-chevron-right icon-right'></i></a>
+				<ul class="side-dropdown">
+					
+					<li><a href="Inventory.aspx"><i class='bx bx-folder icon'></i>Inventory</a></li>
+					<li><a href="#"><i class='bx bxs-report icon'></i>Reports</a></li>
+
+				</ul>
+
+			</li>
+				
 		
-			<li><a href="#"><i class='bx bx-cart-download icon'></i>Purchasing</a></li>
+			<li><a href="#"><i class='bx bxs-cart-download icon'></i>Purchasing</a></li>
 			<li><a href="#"><i class='bx bx-mail-send icon'></i> Requisition</a></li>
 			<li><a href="#"><i class='bx bxs-truck icon'></i> Supplier</a></li>
 			<li><a href="#"><i class='bx bx-transfer-alt icon' ></i> Transactions</a></li>
